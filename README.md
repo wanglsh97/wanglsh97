@@ -1,16 +1,18 @@
 ## Hi there 👋
 
+I'm **wangliangsheng**, a Frontend Engineer and Agent Engineer.
+
+- 🔭 I’m currently working on frontend applications and AI Agent systems.
+- 🌱 I’m exploring generative UI, context engineering, tool calling, RAG, and multi-agent collaboration.
+- 🧩 I focus on building reliable Agent workflows and clear human–AI interactions.
+- 💻 I work with TypeScript, React, Next.js, Node.js, and Python.
+- 💬 Ask me about frontend engineering, Agent architecture, and AI-native products.
+- 🤝 I’m open to collaborating on frontend, Agent, and open-source projects.
+- 📫 Reach me on [X](https://x.com/wang_ls97).
+
 <!--
-**wanglsh97/wanglsh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Optional additions:
+- 📫 Email: your@email.com
+- 🌐 Website: https://your-website.com
 - ⚡ Fun fact: ...
 -->
